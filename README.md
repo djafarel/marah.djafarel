@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Elnoumery">
-    <img src="https://img.shields.io/badge/GitHub-Elnoumery-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Djafarel">
+    <img src="https://img.shields.io/badge/GitHub-Djafarel-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Data%20Science-Expertise-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge" />
@@ -162,7 +162,7 @@ The fractional derivative allows the optimization process to incorporate a form 
 
 `Python` `PyTorch` `NumPy` `Pandas` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
-🔗 **[Explore my GitHub repositories](https://github.com/Elnoumery?tab=repositories)**
+🔗 **[Explore my GitHub repositories](https://github.com/Djafarel?tab=repositories)**
 
 ---
 
@@ -182,7 +182,7 @@ The fractional derivative allows the optimization process to incorporate a form 
 * Medical Data Analysis
 * Model Evaluation
 
-🔗 [View my GitHub repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -204,7 +204,7 @@ Development of an AI-based solution designed to identify **suspicious customer b
 
 **Focus:** `Machine Learning` `Fraud Detection` `Anomaly Detection` `Risk Analytics`
 
-🔗 [View project repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [View project repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -238,7 +238,7 @@ using historical data.
 
 **Focus:** transforming historical operational data into forecasts that can support business planning and decision-making.
 
-🔗 [View my GitHub repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -260,7 +260,7 @@ Development of a sentiment analysis solution designed to analyze large volumes o
 
 `Python` `NLP` `Machine Learning` `Data Analysis` `Business Intelligence`
 
-🔗 [View project repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [View project repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -282,7 +282,7 @@ A collection of practical projects focused on transforming raw business data int
 
 `Python` `Pandas` `SQL` `Power BI` `Tableau` `Matplotlib` `Seaborn` `Excel`
 
-🔗 [Explore my repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -306,7 +306,7 @@ Practical SQL projects focused on extracting, transforming and analyzing structu
 
 `SQL` `PostgreSQL` `MySQL` `SQL Server`
 
-🔗 [Explore my repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -329,7 +329,7 @@ Projects focused on improving the reliability and consistency of datasets before
 
 `Python` `Pandas` `NumPy` `SQL`
 
-🔗 [Explore my repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -353,7 +353,7 @@ Projects connecting mathematical concepts with practical Machine Learning implem
 
 `Python` `NumPy` `PyTorch` `Scikit-learn`
 
-🔗 [Explore my repositories](https://github.com/Elnoumery?tab=repositories)
+🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
@@ -403,11 +403,15 @@ Contributed to project monitoring, requirements gathering, task coordination, an
 
 Focus:
 
-`Data Science` `Artificial Intelligence` `Machine Learning` `Statistics` `Mathematical Modeling`
+`Data Science` `Artificial Intelligence` `Machine Learning` `Statistics` `Probability` `Mathematical Modeling`
 
 ### 🎓 Bachelor's Degree — Engineering Sciences
 
 **École Nationale Supérieure Polytechnique de Douala — 2023**
+
+### 🎓 Master's Degree — Mathematics
+
+**University of Ngaoundéré — 2022**
 
 ### 🎓 Bachelor's Degree — Mathematics
 
@@ -652,7 +656,7 @@ I am open to:
 
 📍 **Location:** Douala, Cameroon
 
-💻 **GitHub:** [github.com/Elnoumery](https://github.com/Elnoumery)
+💻 **GitHub:** [github.com/Elnoumery](https://github.com/Djafarel)
 
 ---
 
@@ -669,7 +673,7 @@ I am open to:
 | 🧮 Mathematical ML                | Mathematics / AI           | NumPy, PyTorch, Scikit-learn              |
 | 📊 Data Analytics Portfolio       | Analytics / BI             | Python, SQL, Power BI                     |
 
-👉 **[Explore all my repositories →](https://github.com/Elnoumery?tab=repositories)**
+👉 **[Explore all my repositories →](https://github.com/Djafarel?tab=repositories)**
 
 ---
 
@@ -682,7 +686,7 @@ I am open to:
 </p>
 
 <p align="center">
-  <a href="https://github.com/Elnoumery">
+  <a href="https://github.com/Djafarel">
     <img src="https://img.shields.io/badge/Follow%20my%20work-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
