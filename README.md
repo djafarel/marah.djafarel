@@ -656,7 +656,7 @@ I am open to:
 
 📍 **Location:** Douala, Cameroon
 
-💻 **GitHub:** [github.com/Elnoumery](https://github.com/Djafarel)
+💻 **GitHub:** [github.com/Djafarel](https://github.com/Djafarel)
 
 ---
 
