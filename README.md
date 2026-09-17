@@ -379,7 +379,7 @@ Worked with:
 
 ---
 
-### 🔹 Junior Data Analyst Intern — Amana Trust Finance
+### 🔹 Data Analyst Intern — Amana Trust Finance
 
 **June 2024 – November 2024**
 
@@ -387,7 +387,7 @@ Worked on data analysis, reporting and dashboard development to support business
 
 ---
 
-### 🔹 Assistant Project Manager Intern — Amana Trust Finance
+### 🔹 Project Manager Intern — Amana Trust Finance
 
 **June 2023 – August 2023**
 
