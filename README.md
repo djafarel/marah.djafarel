@@ -83,7 +83,7 @@ My interests include:
 * Explainable AI
 * Mathematical AI
 
-### 🔬 Mathematical & Research-Oriented AI
+###  Mathematical & Research-Oriented AI
 
 My mathematical background allows me to explore AI from both theoretical and practical perspectives:
 
@@ -458,6 +458,10 @@ Focus:
 
 `PostgreSQL` `MySQL` `SQL Server`
 
+## Big Data Tools
+`Hadoop` `Spark` `Kafka`
+ `ETL` `ELT`
+
 ## Tools & Platforms
 
 `Git` `GitHub` `Jupyter Notebook` `AWS` `LaTeX`
@@ -557,10 +561,6 @@ My GitHub portfolio is organized around several complementary areas:
 ├──  Fractional Calculus
 ├──  SVM
 └──  Research Implementations
-
-## Big Data Tools
-* Hadoop, Spark, Kafka
-* ETL / ELT
 
 ```
 
