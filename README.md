@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Marah Djafar El Noumery
+#  Hi, I'm Marah Djafar El Noumery
 
-### Data Scientist | Machine Learning Engineer | AI Researcher | Medical AI
+### Data Scientist | Machine Learning Engineer | Business Analysis | Medical AI
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence;Medical+AI+%7C+Mathematical+Modeling+%7C+Statistical+Learning;Turning+Data+into+Intelligent+and+Useful+Solutions" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a **Data Scientist and AI researcher** with a strong background in **Mathematics, Statistics, Data Science and Artificial Intelligence**.
 
@@ -25,13 +25,13 @@ My work focuses on transforming complex data into **predictive models, analytica
 
 I am particularly interested in the intersection between:
 
-* 📊 Data Science & Statistical Learning
-* 🤖 Machine Learning & Artificial Intelligence
-* 🧠 Mathematical Modeling & Optimization
-* 🏥 Medical AI & Biomedical Data
-* 🔬 Explainable and Reliable AI
-* 📈 Predictive Analytics & Time Series
-* 🗄️ Data Analytics, SQL & Business Intelligence
+*  Data Science & Statistical Learning
+*  Machine Learning & Artificial Intelligence
+*  Mathematical Modeling & Optimization
+*  Medical AI & Biomedical Data
+*  Explainable and Reliable AI
+*  Predictive Analytics & Time Series
+*  Data Analytics, SQL & Business Intelligence
 
 My academic research explored the combination of **Support Vector Machines and Fractional Calculus** for breast cancer detection, using a fractional-order optimization approach based on the **Caputo fractional derivative**.
 
@@ -39,9 +39,9 @@ My academic research explored the combination of **Support Vector Machines and F
 
 ---
 
-# 🚀 What I Do
+#  What I Do
 
-### 📊 Data Analytics
+### Data Analytics
 
 I transform raw data into meaningful information through:
 
@@ -55,7 +55,7 @@ I transform raw data into meaningful information through:
 * Business Intelligence
 * Reporting & Decision Support
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 I develop and evaluate predictive models for classification, regression and forecasting:
 
@@ -70,7 +70,7 @@ I develop and evaluate predictive models for classification, regression and fore
 * Feature Engineering
 * Predictive Modeling
 
-### 🧠 Artificial Intelligence
+###  Artificial Intelligence
 
 My interests include:
 
@@ -98,9 +98,9 @@ My mathematical background allows me to explore AI from both theoretical and pra
 
 ---
 
-# ⭐ Featured Research Project
+#  Featured Research Project
 
-## 🏥 Breast Cancer Detection — Fractional SVM
+##  Breast Cancer Detection — Fractional SVM
 
 ### Fractional Calculus + Support Vector Machines for Breast Cancer Detection
 
@@ -110,7 +110,7 @@ The project uses the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and c
 
 **Support Vector Machines + Fractional Gradient Descent + Caputo Fractional Derivative**
 
-### 🔬 Research Pipeline
+###  Research Pipeline
 
 ```text
 Raw Medical Data
@@ -134,7 +134,7 @@ Model Evaluation
 Breast Cancer Classification
 ```
 
-### 📌 Dataset
+###  Dataset
 
 * 569 observations
 * 30 diagnostic features
@@ -142,13 +142,13 @@ Breast Cancer Classification
 * Binary classification: Benign / Malignant
 * Standardized feature representation
 
-### 🧮 Main Idea
+###  Main Idea
 
 Instead of using a classical integer-order gradient during optimization, the proposed approach introduces a **fractional-order optimization mechanism**.
 
 The fractional derivative allows the optimization process to incorporate a form of **historical information / memory**, which can influence the trajectory of the optimization process.
 
-### 📈 Reported Results
+###  Reported Results
 
 | Metric    | Fractional SVM |
 | --------- | -------------: |
@@ -158,17 +158,17 @@ The fractional derivative allows the optimization process to incorporate a form 
 | F1-Score  |    **≈ 98.4%** |
 | ROC-AUC   |    **≈ 0.999** |
 
-### 🛠️ Technologies
+###  Technologies
 
 `Python` `PyTorch` `NumPy` `Pandas` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
-🔗 **[Explore my GitHub repositories](https://github.com/Djafarel?tab=repositories)**
+ **[Explore my GitHub repositories](https://github.com/Djafarel?tab=repositories)**
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
-## 1. 🏥 Breast Cancer Detection — Fractional SVM
+## 1.  Breast Cancer Detection — Fractional SVM
 
 **Research-oriented Machine Learning project combining fractional calculus and SVM optimization for breast cancer classification.**
 
@@ -182,11 +182,11 @@ The fractional derivative allows the optimization process to incorporate a form 
 * Medical Data Analysis
 * Model Evaluation
 
-🔗 [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
+ [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 2. 📡 AI-Based Telecom Fraud Detection
+## 2.  AI-Based Telecom Fraud Detection
 
 ### Machine Learning for Fraud & Anomaly Detection
 
@@ -204,11 +204,11 @@ Development of an AI-based solution designed to identify **suspicious customer b
 
 **Focus:** `Machine Learning` `Fraud Detection` `Anomaly Detection` `Risk Analytics`
 
-🔗 [View project repositories](https://github.com/Djafarel?tab=repositories)
+ [View project repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 3. 📈 Intelligent Forecasting — Customer Relationship Center
+## 3.  Intelligent Forecasting — Customer Relationship Center
 
 ### Data Science & AI Internship Project
 
@@ -216,9 +216,9 @@ Development of an intelligent forecasting solution for a customer relationship c
 
 The objective was to forecast:
 
-* 📞 Call volumes
-* 💰 Sales
-* 📊 Revenue
+*  Call volumes
+*  Sales
+*  Revenue
 
 using historical data.
 
@@ -238,11 +238,11 @@ using historical data.
 
 **Focus:** transforming historical operational data into forecasts that can support business planning and decision-making.
 
-🔗 [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
+ [View my GitHub repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 4. 💬 Customer Sentiment Analysis & Business Intelligence
+## 4.  Customer Sentiment Analysis & Business Intelligence
 
 ### Turning Customer Feedback into Business Insights
 
@@ -260,11 +260,11 @@ Development of a sentiment analysis solution designed to analyze large volumes o
 
 `Python` `NLP` `Machine Learning` `Data Analysis` `Business Intelligence`
 
-🔗 [View project repositories](https://github.com/Djafarel?tab=repositories)
+ [View project repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 5. 📊 Data Analytics & Business Intelligence
+## 5. Data Analytics & Business Intelligence
 
 A collection of practical projects focused on transforming raw business data into useful insights.
 
@@ -282,11 +282,11 @@ A collection of practical projects focused on transforming raw business data int
 
 `Python` `Pandas` `SQL` `Power BI` `Tableau` `Matplotlib` `Seaborn` `Excel`
 
-🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
+ [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 6. 🗄️ SQL & Database Analytics
+## 6. SQL & Database Analytics
 
 Practical SQL projects focused on extracting, transforming and analyzing structured business data.
 
@@ -306,11 +306,11 @@ Practical SQL projects focused on extracting, transforming and analyzing structu
 
 `SQL` `PostgreSQL` `MySQL` `SQL Server`
 
-🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
+ [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 7. 🧹 Data Quality & Data Validation
+## 7.  Data Quality & Data Validation
 
 Projects focused on improving the reliability and consistency of datasets before analysis or machine learning.
 
@@ -329,11 +329,11 @@ Projects focused on improving the reliability and consistency of datasets before
 
 `Python` `Pandas` `NumPy` `SQL`
 
-🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
+ [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-## 8. 🧮 Mathematical Foundations of Machine Learning
+## 8.  Mathematical Foundations of Machine Learning
 
 Projects connecting mathematical concepts with practical Machine Learning implementations.
 
@@ -341,6 +341,7 @@ Projects connecting mathematical concepts with practical Machine Learning implem
 
 * Linear Algebra
 * Optimization
+* Fractional Calculus
 * Lagrange Multipliers
 * SVM Optimization
 * Principal Component Analysis
@@ -353,13 +354,13 @@ Projects connecting mathematical concepts with practical Machine Learning implem
 
 `Python` `NumPy` `PyTorch` `Scikit-learn`
 
-🔗 [Explore my repositories](https://github.com/Djafarel?tab=repositories)
+ [Explore my repositories](https://github.com/Djafarel?tab=repositories)
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
-### 🔹 Freelance Data & Digital Solutions Consultant
+###  Freelance Data & Digital Solutions Consultant
 
 **February 2026 – Present**
 
@@ -367,7 +368,7 @@ Working on data analysis, reporting and digital solutions while helping organiza
 
 ---
 
-### 🔹 Data Science & AI Intern — AI Club
+###  Data Science & AI Intern — AI Club
 
 **March 2025 – April 2025**
 
@@ -379,7 +380,7 @@ Worked with:
 
 ---
 
-### 🔹 Data Analyst Intern — Amana Trust Finance
+###  Data Analyst Intern — Amana Trust Finance
 
 **June 2024 – November 2024**
 
@@ -387,7 +388,7 @@ Worked on data analysis, reporting and dashboard development to support business
 
 ---
 
-### 🔹 Project Manager Intern — Amana Trust Finance
+### Assistance Project Manager Intern — Amana Trust Finance
 
 **June 2023 – August 2023**
 
@@ -395,9 +396,9 @@ Contributed to project monitoring, requirements gathering, task coordination, an
 
 ---
 
-# 🎓 Education
+#  Education
 
-### 🎓 Master's Degree — Data Science & Artificial Intelligence
+###  Master's Degree — Data Science & Artificial Intelligence
 
 **École Nationale Supérieure Polytechnique de Douala — 2025**
 
@@ -405,21 +406,21 @@ Focus:
 
 `Data Science` `Artificial Intelligence` `Machine Learning` `Statistics` `Probability` `Mathematical Modeling`
 
-### 🎓 Bachelor's Degree — Engineering Sciences
+###  Bachelor's Degree — Engineering Sciences
 
 **École Nationale Supérieure Polytechnique de Douala — 2023**
 
-### 🎓 Master's Degree — Mathematics
+###  Master's Degree — Mathematics
 
 **University of Ngaoundéré — 2022**
 
-### 🎓 Bachelor's Degree — Mathematics
+###  Bachelor's Degree — Mathematics
 
 **University of Ngaoundéré — 2020**
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 ## Programming
 
@@ -463,11 +464,11 @@ Focus:
 
 ---
 
-# 🔬 Research Interests
+#  Research Interests
 
 My research interests are centered around the development of reliable and mathematically grounded AI systems.
 
-### 🏥 Medical AI
+###  Medical AI
 
 * Medical image analysis
 * Biomedical data science
@@ -475,7 +476,7 @@ My research interests are centered around the development of reliable and mathem
 * Explainable AI
 * Reliable AI for healthcare
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 * Statistical learning
 * Machine Learning optimization
@@ -483,7 +484,7 @@ My research interests are centered around the development of reliable and mathem
 * Model robustness
 * Explainability
 
-### 🧮 Mathematical AI
+###  Mathematical AI
 
 * Mathematical modeling
 * Optimization
@@ -492,7 +493,7 @@ My research interests are centered around the development of reliable and mathem
 * Numerical methods
 * Statistical modeling
 
-### 📡 Other Research Areas
+###  Other Research Areas
 
 * Internet of Things (IoT)
 * Information Management
@@ -500,7 +501,7 @@ My research interests are centered around the development of reliable and mathem
 
 ---
 
-# 📚 Research Philosophy
+#  Research Philosophy
 
 > **"I believe the future of AI lies at the intersection of mathematics, data and real-world problems."**
 
@@ -522,45 +523,50 @@ Rather than treating Machine Learning as a collection of algorithms, I am intere
 
 ---
 
-# 📂 Portfolio Structure
+#  Portfolio Structure
 
 My GitHub portfolio is organized around several complementary areas:
 
 ```text
-📁 Data Analytics
+ Data Analytics
 │
-├── 📊 Exploratory Data Analysis
-├── 📈 Business Intelligence
-├── 🗄️ SQL & Databases
-└── 📋 Reporting & Dashboards
+├── Exploratory Data Analysis
+├──  Business Intelligence
+├──  SQL & Databases
+└──  Reporting & Dashboards
 
-📁 Machine Learning
+ Machine Learning
 │
-├── 🤖 Classification
-├── 📈 Regression
-├── 🔍 Fraud Detection
-├── ⏱️ Time Series
-└── ⚙️ Optimization
+├──  Classification
+├──  Regression
+├──  Fraud Detection
+├──  Time Series
+└──  Optimization
 
-📁 Artificial Intelligence
+ Artificial Intelligence
 │
-├── 🧠 Deep Learning
-├── 💬 NLP
-├── 🏥 Medical AI
-└── 🔬 Explainable AI
+├──  Deep Learning
+├──  NLP
+├──  Medical AI
+└──  Explainable AI
 
-📁 Mathematical Machine Learning
+ Mathematical Machine Learning
 │
-├── 🧮 Optimization
-├── 📐 Linear Algebra
-├── ∫ Fractional Calculus
-├── 🎯 SVM
-└── 🔬 Research Implementations
+├──  Optimization
+├──  Linear Algebra
+├──  Fractional Calculus
+├──  SVM
+└──  Research Implementations
+
+## Big Data Tools
+* Hadoop, Spark, Kafka
+* ETL / ELT
+
 ```
 
 ---
 
-# 📊 My Data Science Workflow
+#  My Data Science Workflow
 
 ```text
         Business / Research Problem
@@ -598,14 +604,14 @@ My GitHub portfolio is organized around several complementary areas:
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 * 🇫🇷 **French:** Fluent
 * 🇬🇧 **English:** Fluent
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 ### Leadership
 
@@ -615,21 +621,26 @@ My GitHub portfolio is organized around several complementary areas:
 
 **N-EU-SAIL — New EU Sub-Saharan Africa International Leadership — 2025**
 
+### Problem Solving and Innovation
+
+**N-EU-SAIL — New EU Sub-Saharan Africa International Leadership — 2026**
+
+*** **About N-EU-SAIL : N-EU-SAIL is an Africa-Europe virtual exchange whose mission is to empower young leaders to create a lasting impact in their communities and beyond. It is co-funded by the European Union through Erasmus+**. More info: https://n-eu-sail.eu/
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 I am currently strengthening my portfolio around:
 
-* 🔬 AI research
-* 🏥 Medical AI
-* 🤖 Machine Learning
-* 📊 Data Analytics
-* 🧮 Mathematical Machine Learning
-* 📈 Predictive Modeling
-* 🗄️ SQL & Data Engineering fundamentals
-* 🧹 Data Quality
-* 🧠 Explainable & Reliable AI
+*  AI research
+*  Medical AI
+*  Machine Learning
+*  Data Analytics
+*  Mathematical Machine Learning
+*  Predictive Modeling
+*  SQL & Data Engineering fundamentals
+*  Data Quality
+*  Explainable & Reliable AI
 
 I am particularly interested in opportunities involving:
 
@@ -637,49 +648,50 @@ I am particularly interested in opportunities involving:
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 I am open to:
 
-* 💼 Data Science opportunities
-* 📊 Data Analyst opportunities
-* 🤖 Machine Learning projects
-* 🧠 AI research collaborations
-* 🏥 Medical AI research
-* 🎓 PhD / research opportunities
-* 🌍 Remote opportunities
-* 🚀 Interesting data-driven projects
+*  Data Science opportunities
+*  Data Analyst opportunities
+*  Machine Learning projects
+*  Financial Analysis
+*  AI research collaborations
+*  Medical AI research
+*  PhD / research opportunities
+*  Remote opportunities
+*  Interesting data-driven projects
 
-### 📫 Contact
+###  Contact
 
-📧 **Email:** [marahdjafareln@gmail.com](mailto:marahdjafareln@gmail.com)
+ **Email:** [marahdjafareln@gmail.com](mailto:marahdjafareln@gmail.com)
 
-📍 **Location:** Douala, Cameroon
+ **Location:** Douala, Cameroon
 
-💻 **GitHub:** [github.com/Djafarel](https://github.com/Djafarel)
+ **GitHub:** [github.com/Djafarel](https://github.com/Djafarel)
 
 ---
 
-# ⭐ Featured Repositories
+#  Featured Repositories
 
 | Project                           | Domain                     | Main Technologies                         |
 | --------------------------------- | -------------------------- | ----------------------------------------- |
-| 🏥 Breast Cancer — Fractional SVM | Medical AI / Research      | Python, PyTorch, SVM, Fractional Calculus |
-| 📡 Telecom Fraud Detection        | Machine Learning           | Python, ML, Analytics                     |
-| 📈 Intelligent Forecasting        | Data Science / Time Series | XGBoost, LightGBM, Python                 |
-| 💬 Customer Sentiment Analysis    | NLP / BI                   | Python, NLP, ML                           |
-| 🗄️ SQL Data Analysis             | Data Analytics             | SQL, PostgreSQL                           |
-| 🧹 Data Quality Framework         | Data Engineering           | Python, Pandas, SQL                       |
-| 🧮 Mathematical ML                | Mathematics / AI           | NumPy, PyTorch, Scikit-learn              |
-| 📊 Data Analytics Portfolio       | Analytics / BI             | Python, SQL, Power BI                     |
+|  Breast Cancer — Fractional SVM | Medical AI / Research      | Python, PyTorch, SVM, Fractional Calculus |
+|  Telecom Fraud Detection        | Machine Learning           | Python, ML, Analytics                     |
+|  Intelligent Forecasting        | Data Science / Time Series | XGBoost, LightGBM, Python                 |
+|  Customer Sentiment Analysis    | NLP / BI                   | Python, NLP, ML                           |
+|  SQL Data Analysis             | Data Analytics             | SQL, PostgreSQL                           |
+|  Data Quality Framework         | Data Engineering           | Python, Pandas, SQL                       |
+|  Mathematical ML                | Mathematics / AI           | NumPy, PyTorch, Scikit-learn              |
+|  Data Analytics Portfolio       | Analytics / BI             | Python, SQL, Power BI                     |
 
-👉 **[Explore all my repositories →](https://github.com/Djafarel?tab=repositories)**
+ **[Explore all my repositories →](https://github.com/Djafarel?tab=repositories)**
 
 ---
 
 <p align="center">
 
-### 🚀 Data → Intelligence → Impact
+###  Data → Intelligence → Impact
 
 **Building intelligent solutions with Mathematics, Data and Artificial Intelligence.**
 
