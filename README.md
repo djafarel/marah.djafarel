@@ -366,6 +366,16 @@ Projects connecting mathematical concepts with practical Machine Learning implem
 
 Working on data analysis, reporting and digital solutions while helping organizations use data to support operational and strategic decision-making.
 
+**Freelance AI & Software Development Projects** 
+*Technical Collaborative projects in AI and software development.*
+
+- Contribute to the design and development of practical software solutions involving Retrieval-Augmented Generation (RAG), Large Language Model (LLM) integration, and AI-powered applications.
+- Develop and integrate RESTful APIs using Python and Node.js to connect application components and backend services.
+- Build interactive web application interfaces using React and TypeScript.
+- Design, manage, and integrate relational databases to support application data storage and retrieval.
+- Containerize applications using Docker and explore cloud deployment solutions to improve portability, scalability, and maintainability.
+- Collaborate with other developers on software architecture, implementation, testing, debugging, and technical problem-solving.
+
 ---
 
 ###  Data Science & AI Intern — AI Club
